@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathyushalahari&label=Profile%20views&color=0e75b6&style=flat" alt="prathyushalahari" /> </p>
 
-- 👨‍💻 I am Good at      **Data Structures and Algorithms and Basics in Web Development.**
+- 👨‍💻 I am Good at      **Data Structures,Algorithms and Basics in Web Development.**
 
 - 🌱 I’m currently learning **Full Stack Web Development, Data Science for Begginers**
 
 - ✌ My Portfolio Website [prathyushalahari.github.io/CV/](prathyushalahari.github.io/CV/)
 
-- ⚡ Special Talents         **I am Singer and Trained in Carnatic Singing also.**
+- ⚡ Special Talents         **I am a Singer and Trained in Carnatic Music also.**
 
 - 📝 I regulary write articles [https://www.quora.com/profile/Prathyusha-Lahari](https://www.quora.com/profile/Prathyusha-Lahari)
 
