@@ -16,13 +16,6 @@
 - ✌ My Portfolio Website [Click it!!](https://prathyushalahari.github.io/CV/)
 
 - 📝 I Keenly write articles at [Quora](https://www.quora.com/profile/Prathyusha-Lahari)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prathyushamaha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prathyushamaha2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathyusha-lahari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
- <a href="https://www.quora.com/profile/Prathyusha-Lahari" target="blank"><img align="center" src="https://simpleicons.org/icons/quora.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
- </p>
  
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">
@@ -40,8 +33,13 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.oracle.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/></a>
-
 </p>
+
+<h3 align="left">Connect with me:</h3><p align="left">
+<a href="https://twitter.com/prathyushamaha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prathyushamaha2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathyusha-lahari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
+ <a href="https://www.quora.com/profile/Prathyusha-Lahari" target="blank"><img align="center" src="https://simpleicons.org/icons/quora.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
+ </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathyushalahari&show_icons=true&locale=en&layout=compact" alt="prathyushalahari" /></p>
 </body>
