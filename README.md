@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/prathyushamaha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prathyushamaha2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathyusha-lahari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/prathyusha-lahari" target="blank"><img align="center" src="https://simpleicons.org/icons/quora.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pragmatic_p8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pragmatic_p8" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pragmatic_p8" height="30" width="40" /></a>
