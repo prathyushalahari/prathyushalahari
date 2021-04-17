@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Data Science for Begginers**
 
-- ✌ My Portfolio Website [prathyushalahari.github.io/CV/](prathyushalahari.github.io/CV/)
+- ✌ My Portfolio Website [prathyushalahari.github.io](https://prathyushalahari.github.io/CV/)
 
 - ⚡ Special Talents         **I am a Singer and Trained in Carnatic Music also.**
 
