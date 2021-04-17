@@ -15,7 +15,7 @@
 
 - ⚡ Special Talents         **I am a Singer and Trained in Carnatic Music also.**
 
-- 📝 I regulary write articles [https://www.quora.com/profile/Prathyusha-Lahari](https://www.quora.com/profile/Prathyusha-Lahari)
+- 📝 I Keenly write articles [https://www.quora.com/profile/Prathyusha-Lahari](https://www.quora.com/profile/Prathyusha-Lahari)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
