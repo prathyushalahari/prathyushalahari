@@ -13,7 +13,7 @@
 
 - ⚡ Special Talents         **I am a Singer and Trained in Carnatic Music also.**
 
-- ✌ My Portfolio Website [Click it!!](https://prathyushalahari.github.io/CV/)
+<!------ ✌ My Portfolio Website [Click it!!](https://prathyushalahari.github.io/CV/)--------------->
 
 - 📝 I Keenly write articles at [Quora](https://www.quora.com/profile/Prathyusha-Lahari)
  
