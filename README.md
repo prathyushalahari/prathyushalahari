@@ -51,6 +51,39 @@ I enjoy turning research ideas into practical systems—whether it's optimizing 
 
 ---
 
+## 📂 Featured Projects & Work
+
+My GitHub showcases a mix of **applied AI systems, research-oriented implementations, and full-stack integrations** across multiple domains:
+
+- 🧩 **Graph Neural Networks & Optimization**  
+  Supply chain analysis, anomaly detection, and network insights using GNNs and graph algorithms.
+
+- 🤖 **Deep Learning & Computer Vision**  
+  Real-world projects like **violence detection (CNN + BiLSTM)**, **waste detection (YOLOv5 + Azure)**, and **image de-raining (cGANs)**.
+
+- 🔍 **Explainable AI (XAI)**  
+  Model interpretability using Grad-CAM, LRP, CRP, and occlusion-based methods.
+
+- 🧠 **Generative AI & LLM Applications**  
+  RAG-based chatbot using LangChain, working with unstructured data (PPTs, documents).
+
+- ☁️ **Cloud & End-to-End Systems**  
+  Deployment-focused projects integrating ML models with **Azure, Flask APIs, and real-time pipelines**.
+
+- 📊 **Probabilistic & Classical ML**  
+  Bayesian networks (healthcare use-cases), core ML model implementations, and experimentation.
+
+- 🔔 **Automation & Utility Tools**  
+  Real-world tools like **Cowin vaccine slot tracker (Telegram bot + APIs)**.
+
+- 📚 **Learning & Foundations**  
+  DSA practice, ML implementations, and curated learning repositories.
+
+---
+
+✨ *Overall, my work focuses on bridging **AI research → real-world deployment**, especially in resource-constrained and practical environments.*
+---
+
 ## 📚 Research Interests
 
 - Edge AI & Efficient Deep Learning  
