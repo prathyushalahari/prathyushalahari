@@ -2,7 +2,7 @@
 
 🚀 *Machine Learning Engineer | Applied AI R&D | Edge AI Enthusiast*
 
-I'm currently an **Applied AI R&D Intern at Bosch (Edge AI)** and pursuing an **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
+I'm currently an **Applied AI R&D Intern at Bosch (Edge AI)** and pursuing a **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
 
 I enjoy turning research ideas into practical systems—whether it's optimizing models for constrained hardware or designing pipelines for real-time AI applications.
 
@@ -10,7 +10,7 @@ I enjoy turning research ideas into practical systems—whether it's optimizing 
 
 ## 🧠 What I Do
 
-- 🔬 Applied AI Research & Prototyping (Edge AI, Automotive use-cases)
+- 🔬 Applied AI Research & Prototyping or Proof of Concepts (Edge AI, Automotive use-cases)
 - ⚡ Model Optimization for Edge Devices (TinyML, TFLite, ARM)
 - 🧩 Graph Neural Networks for real-world systems (Supply Chains, Mobility)
 - 👁️ Vision-Language Models (VLMs) & Generative AI
@@ -42,9 +42,9 @@ I enjoy turning research ideas into practical systems—whether it's optimizing 
 
 ## 🔍 Key Work Highlights
 
-- 🚗 Built **depth-aware scene understanding pipeline** for driver alert systems using VLMs  
+- 🚗 Built **depth-aware scene and semantic understanding pipeline** for driver alert systems using Qwen2.5 VLM.  
 - ⚙️ Optimized DL models on **ARM Cortex-M55** under strict memory constraints  
-- 🧠 Worked on **Hardware-aware NAS & Graph Neural Networks**  
+- 🧠 Surveyed on **Neural Architecture Search in Mobility systems and Hardware-aware NAS & Graph Neural Networks**  
 - 📊 Applied **GNNs for supply chain optimization & anomaly detection**  
 - 🎥 Developed **Explainable AI pipeline for real-time violence detection**  
 - 🌧️ Built **Conditional GAN for Image De-Raining**
