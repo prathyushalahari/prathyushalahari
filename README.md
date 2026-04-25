@@ -85,7 +85,7 @@ My GitHub showcases a mix of **applied AI systems, research-oriented implementat
 ---
 
 ## 📚 Research Interests
-
+I believe in **First Principal Thinking** to go deep into Research !!
 - Edge AI & Efficient Deep Learning  
 - Graph Neural Networks (GNNs)  
 - Neural Architecture Search (NAS)  
@@ -105,9 +105,9 @@ My GitHub showcases a mix of **applied AI systems, research-oriented implementat
 
 ## 🎯 Beyond Tech
 
-- 🎶 Music (singing, creative expression)  
-- 🎨 Acrylic painting  
-- 🌱 Personal growth through discipline & creativity  
+- 🎶 Music (singing, playing piano).. definetely a stress buster!!
+- 🎞️ Watching Movies, Podcasts, Reading Books. 
+- 🌱 I Believe in personal growth through discipline & creativity  
 
 ---
 
