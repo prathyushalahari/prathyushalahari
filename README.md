@@ -1,45 +1,85 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css"
- </head>
-<body>
-<h1 align="center">Hi 👋, I'm Prathyusha Lahari</h1>
-<h3 align="center">Exploring and Learning Things Pragmatically!!</h3>
+# 👋 Hi, I'm Prathyusha Lahari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathyushalahari&label=Profile%20views&color=0e75b6&style=flat" alt="prathyushalahari" /> </p>
+🚀 *Machine Learning Engineer | Applied AI R&D | Edge AI Enthusiast*
 
-- 👨‍💻 I am Good at      **Data Structures,Machine Learning.**
+I'm currently an **Applied AI R&D Intern at Bosch (Edge AI)** and pursuing an **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
 
-- 🌱 I’m currently learning **AI,ML,Deep Learning, Data Science for Begginers**
+I enjoy turning research ideas into practical systems—whether it's optimizing models for constrained hardware or designing pipelines for real-time AI applications.
 
-- ⚡ Special Talents         **I am a Singer and Trained in Carnatic Music also.**
+---
 
-<!------ ✌ My Portfolio Website [Click it!!](https://prathyushalahari.github.io/CV/)--------------->
+## 🧠 What I Do
 
-- 📝 I Keenly write articles at [Quora](https://www.quora.com/profile/Prathyusha-Lahari)
- 
- <h3 align="left">Coding Profiles:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pragmatic_p8" height="30" width="40" /></a>
-<a href="https://leetcode.com/pragmatic_p8/" target="blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" alt="@pragmatic_p8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pragmatic_p8" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pragmatic_p8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pragmatic_p8" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/prathyusha_lahari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="prathyusha_lahari" height="30" width="40" /></a>
-</p>
+- 🔬 Applied AI Research & Prototyping (Edge AI, Automotive use-cases)
+- ⚡ Model Optimization for Edge Devices (TinyML, TFLite, ARM)
+- 🧩 Graph Neural Networks for real-world systems (Supply Chains, Mobility)
+- 👁️ Vision-Language Models (VLMs) & Generative AI
+- 🧪 Neural Architecture Search (NAS, TinyNAS, HGNAS)
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank"><img src="https://simpleicons.org/icons/git.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.oracle.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/></a>
-</p>
+---
 
-<h3 align="left">Connect with me:</h3><p align="left">
-<a href="https://twitter.com/prathyushamaha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prathyushamaha2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathyusha-lahari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
- <a href="https://www.quora.com/profile/Prathyusha-Lahari" target="blank"><img align="center" src="https://simpleicons.org/icons/quora.svg" alt="prathyusha-lahari" height="30" width="40" /></a>
- </p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathyushalahari&show_icons=true&locale=en&layout=compact" alt="prathyushalahari" /></p>
-</body>
+**Languages**
+- C++ | Python  
+
+**ML & Deep Learning**
+- PyTorch | TensorFlow | TensorFlow Lite  
+- Deep Learning | Computer Vision | NLP  
+- Neural Architecture Search (NAS) | TinyML  
+- Explainable AI (XAI)  
+
+**Generative AI**
+- LLMs | Vision-Language Models (VLMs)  
+- Transformers | RLHF | RAG  
+- PEFT (LoRA, QLoRA)  
+
+**Tools & Platforms**
+- AWS | Docker | Git | Linux  
+- NetworkX | Gephi  
+
+---
+
+## 🔍 Key Work Highlights
+
+- 🚗 Built **depth-aware scene understanding pipeline** for driver alert systems using VLMs  
+- ⚙️ Optimized DL models on **ARM Cortex-M55** under strict memory constraints  
+- 🧠 Worked on **Hardware-aware NAS & Graph Neural Networks**  
+- 📊 Applied **GNNs for supply chain optimization & anomaly detection**  
+- 🎥 Developed **Explainable AI pipeline for real-time violence detection**  
+- 🌧️ Built **Conditional GAN for Image De-Raining**
+
+---
+
+## 📚 Research Interests
+
+- Edge AI & Efficient Deep Learning  
+- Graph Neural Networks (GNNs)  
+- Neural Architecture Search (NAS)  
+- Generative AI (LLMs, VLMs)  
+- Intelligent Transportation Systems  
+- Evolutionary Algorithms & Multi-objective Optimization  
+
+---
+
+## 🧪 Current Focus
+
+- Hardware-aware AI systems (Latency, Memory, Energy optimization)  
+- Combining **GNNs + NAS for scalable architectures**  
+- Real-world deployment of **AI models on edge devices**  
+
+---
+
+## 🎯 Beyond Tech
+
+- 🎶 Music (singing, creative expression)  
+- 🎨 Acrylic painting  
+- 🌱 Personal growth through discipline & creativity  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/prathyusha-lahari  
+- 💻 GitHub: https://github.com/prathyushalahari  
+- 📧 Email: m.prathyushalahari@gmail.com  
