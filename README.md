@@ -5,7 +5,7 @@
 
 🚀 *Machine Learning Engineer | Applied AI R&D | Edge AI Enthusiast* 
 
-I'm have worked as **Applied AI R&D Intern at Bosch (Edge AI)** and recently completed a **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
+I have worked as **Applied AI R&D Intern at Bosch (Edge AI)** and recently completed  **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
 
 I enjoy turning research ideas into practical systems—whether it's optimizing models for constrained hardware or designing pipelines for real-time AI applications.
 
