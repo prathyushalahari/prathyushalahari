@@ -14,9 +14,9 @@ I enjoy turning research ideas into practical systems—whether it's optimizing 
 ## 🧠 What I Do
 
 - 🔬 Applied AI Research & Prototyping or Proof of Concepts (Edge AI, Automotive use-cases)
-- ⚡ Model Optimization for Edge Devices (TinyML, TFLite, ARM)
+- ⚡ Model Optimization (TinyML, TFLite, ARM)
 - 🧩 Graph Neural Networks for real-world systems (Supply Chains, Mobility)
-- 👁️ Vision-Language Models (VLMs) & Generative AI
+- 👁️ Computer Vision - Vision-Language Models (VLMs) & Generative AI
 - 🧪 Neural Architecture Search (NAS, TinyNAS, HGNAS)
 
 ---
