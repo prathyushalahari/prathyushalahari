@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=prathyushalahari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
-🚀 *Machine Learning Engineer | Applied AI R&D intern | Edge AI Enthusiast* 
+🚀 *Machine Learning Engineer | Applied AI R&D intern | AI Engineer * 
 
 I have worked as **Applied AI R&D Intern at Bosch (Edge AI)** and recently completed  **M.Tech in Artificial Intelligence**. I work on building intelligent, efficient, and real-world deployable AI systems—especially at the intersection of **deep learning, edge computing, and generative AI**.
 
